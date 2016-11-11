@@ -44,7 +44,8 @@
         '{userName}は鼻毛です。',
         '{userName}は指毛です。',
         '{userName}は毛むくじゃらです。',
-        '{userName}は禿です。'
+        '{userName}は禿です。',
+         '{userName}はアホ毛です。'
     ];
 
     /**
